@@ -1,0 +1,57 @@
+{
+    "name": "Uptrends",
+    "description": "Monitor website uptime, optimize performance and monitor multiple steps from 165+ locations, incl. alerts. Free & paid website monitoring services.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19939-uptrends.jpg",
+    "tags": [
+        "have api",
+        "monitoring",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/uptrends\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Uptrends",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19939-uptrends.jpg",
+            "humanURL": "https:\/\/www.uptrends.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/uptrends-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.uptrends.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blog.uptrends.com\/feed\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Uptrends"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/UptrendsMonitor"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.uptrends.com\/pricing"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.uptrends.com"
+        }
+    ]
+}
